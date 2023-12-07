@@ -1,0 +1,75 @@
+<?php
+return [
+    "Dashboard" => "Tableau de bord",
+    "login" => "Se connecter",
+    "logout" => "Se deconnecter",
+    'welcome' => "Bienvenue",
+    'login_hint' => 'Merci de vous connecter',
+    'remember_me' => 'Se souvenir de moi',
+    'forgot_password' => 'Mot de passe oublié',
+    'reset_password' => 'Réinitialiser votre mot de passe',
+    'reset_password_email' => 'Saisir votre email pour réinitialiser votre mot de passe',
+    'email' => 'Email',
+    'password' => 'Mot de passe',
+    'form' => [
+        'email' => 'Email',
+        'email_hint' => 'Saisir votre email',
+        'password' => 'Mot de passe',
+        'password_hint' => 'Saisir votre mot de passe',
+        'password__update_hint' => 'Changer le mot de passe ou laisser vide',
+        'role_name_hint' => 'Saisir le nom du role',
+        'role_name_select' => 'Choisir un role',
+        'role_name_search' => 'Rechercher un role',
+        'role_description_hint' => 'Décrire le role',
+        'name' => 'Nom',
+        'name_hint' => 'Saisir votre nom'
+
+    ],
+    'new' => 'Nouveau',
+    'back' => 'Retour',
+    'show' => 'Voir',
+    'user_management' => 'Gestion des utilisateurs',
+    'users' => 'Utilisateurs',
+    'new_user' => 'Nouvel utilisateur',
+    'edit_user' => 'Modifier utilisateur: :user',
+    'show_user' => 'Voir utilisateur: :user',
+    'delete_user' => 'Supprimer utilisateur: :user',
+    'roles' => 'Roles',
+    'new_role' => 'Nouveau role',
+    'edit_role' => 'Modifier role: :role',
+    'show_role' => 'Voir role: :role',
+    'delete_role' => 'Supprimer role: :role',
+    'permissions' => 'Permissions',
+    'view-any' => 'Voir tout(e)s',
+    'view' => 'Voir',
+    'create' => 'Créer',
+    'update' => 'Mettre à jour',
+    'delete' => 'Supprimer',
+    'restore' => 'Restaurer',
+    'replicate' => 'Dupliquer',
+    'reorder' => 'Ordonner',
+    'role_exist' => 'Désolé, ce role existe déjà',
+    'user_exist' => 'Désolé, ce compte existe déjà',
+    'save_error' => 'Erreur lors de l\'enregistrement ou de la modification de la donnée.',
+    'role' => [
+        'name' => 'Role',
+        'guard_name' => 'Domaine',
+        'description' => 'Description'
+
+    ],
+    'user' => [
+        'user' => 'Utilisateur',
+        'name' => 'Nom',
+        'email' => 'Email',
+        'email_verified' => 'Verifié'
+
+    ],
+    'actions' => 'Actions',
+    'empty_array' => 'Désolé, cette liste est vide. 🧐',
+    'empty' => '🪫',
+    'cancel' => 'Annuler',
+    'submitbutton' => 'Valider',
+    'select_all' => 'Cocher',
+    'unselect_all' => 'Décocher'
+
+];
